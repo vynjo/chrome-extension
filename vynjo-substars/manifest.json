@@ -1,6 +1,6 @@
 {
   "name": "Vynjo Sub & Star Extensions",
-  "description": "GitGeni.us - Show Subscriber & Stargazer Details",
+  "description": "GitGenius - Show Subscriber & Stargazer Details",
   "version": "1.0",
   "manifest_version": 3,
   "action": {
